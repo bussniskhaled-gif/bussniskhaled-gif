@@ -30,7 +30,7 @@
   <a href="mailto:ka6246770@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://portofolio-beige-two-23.vercel.app/" target="_blank">
+  <a href="https://portofolio-two-eta-92.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -41,7 +41,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,postgresql,vite" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,linux" />
     <br>
     <br>
